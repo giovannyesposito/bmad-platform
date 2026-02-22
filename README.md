@@ -2,6 +2,8 @@
 
 FlowForge AI é uma plataforma web inovadora para desenvolvimento de projetos assistido por IA. A plataforma orquestra um time de agentes especializados (Product Managers, Arquitetos, Desenvolvedores, Designers, etc.) para trabalhar em conjunto ou individualmente na construção de software.
 
+**Nota:** Este projeto é baseado no framework e engenharia de prompts do **BMAD METHOS V6**.
+
 ## Características
 
 - 🎯 **Agentes Especializados**: 19 agentes únicos divididos nos módulos Core, BMB, BMM e CIS.
