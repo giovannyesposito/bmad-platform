@@ -51,7 +51,7 @@ function selectRelevantAgents(message: string, activeAgents: string[], all: BMAD
 const PARTY_GREETINGS = [
     '🎉 **PARTY MODE ATIVADO!** 🎉',
     '',
-    'Olá, Giovanny! Todos os agentes BMAD estão aqui e prontos para uma discussão colaborativa dinâmica.',
+    'Olá, Giovanny! Todos os agentes FlowForge AI estão aqui e prontos para uma discussão colaborativa dinâmica.',
     '',
     '**Selecione os agentes** que deseja incluir na conversa usando os chips acima.',
     'Por padrão, o sistema selecionará automaticamente os 2-3 agentes mais relevantes para cada mensagem.',

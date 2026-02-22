@@ -28,7 +28,7 @@ export function Sidebar({ currentPage, onNavigate }: SidebarProps) {
             <div className="sidebar-logo">
                 <div className="sidebar-logo-icon">⚡</div>
                 <div className="sidebar-logo-text">
-                    <span className="logo-title">BMAD Platform</span>
+                    <span className="logo-title">FlowForge AI</span>
                     <span className="logo-subtitle">AI Development Suite</span>
                 </div>
             </div>

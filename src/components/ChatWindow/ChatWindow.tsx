@@ -38,7 +38,7 @@ REGRAS:
 - O usuário se chama Giovanny
 - Modulo: ${agent.module.toUpperCase()}
 
-Você está em uma plataforma web de IA para desenvolvimento de projetos chamada BMAD Platform.`;
+Você está em uma plataforma web de IA para desenvolvimento de projetos chamada FlowForge AI.`;
 }
 
 export function ChatWindow({ agent, onBack }: ChatWindowProps) {
